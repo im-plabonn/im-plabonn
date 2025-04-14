@@ -9,12 +9,15 @@
 
 
 
+
+
+
+
+
 <div align="center">
+
   ![snake gif](https://github.com/im-plabonn/im-plabonn/blob/output/github-snake-dark.svg)
-</div>
-
-
-<div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo" />
