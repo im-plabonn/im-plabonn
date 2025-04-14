@@ -1,4 +1,10 @@
 <!--START_SECTION:waka-->
+
+```txt
+Python   3 hrs 2 mins    █████████████████████████   99.38 %
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+```
+
 <!--END_SECTION:waka-->
 
 
