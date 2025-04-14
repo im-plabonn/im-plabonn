@@ -1,4 +1,18 @@
-![snake gif](https://github.com/im-plabonn/im-plabonn/blob/output/github-snake-dark.svg)
+<div align="center">
+  <a href="https://www.linkedin.com/in/im-plabon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://x.com/im_plabonn" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X (Twitter) logo" />
+  </a>
+</div>
+
+
+
+<div align="center">
+  ![snake gif](https://github.com/im-plabonn/im-plabonn/blob/output/github-snake-dark.svg)
+</div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
